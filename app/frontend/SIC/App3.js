@@ -1,0 +1,1 @@
+  const hideFooter = pathname.startsWith("/creator") || pathname.startsWith("/editor") || pathname.startsWith("/login") || pathname.startsWith("/register") || pathname.startsWith("/forgot-password") || pathname.startsWith("/reset-password");
